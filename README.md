@@ -62,7 +62,7 @@ Open you code editor, then edit the directory paths.
 ## Project Structure
 
 ```
-YOUR_REPO_NAME/
+Arabic-Handwriting-OCR/
 ├── ocr_pipeline.py      # main script
 ├── requirements.txt     # dependencies
 └── README.md
